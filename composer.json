@@ -1,10 +1,7 @@
 {
-    "name": "kurtmoser/lock2-original",
-    "authors": [
-        {
-            "name": "Kurt Moser",
-            "email": "kurt@suvaline.com"
-        }
-    ],
-    "require": {}
+    "name": "suvatyyp/lock-clone",
+    "description": "Lock2 clone",
+    "replace": {	
+        "kurtmoser/lock2-original": "1.*"	
+    }
 }
