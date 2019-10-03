@@ -1,5 +1,5 @@
 {
-    "name": "suvatyyp/lock-clone",
+    "name": "suvatyyp/lock2-clone",
     "description": "Lock2 clone",
     "replace": {	
         "kurtmoser/lock2-original": "1.*"	
